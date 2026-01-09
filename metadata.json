@@ -1,0 +1,8 @@
+{
+  "name": "EduVantage AI",
+  "description": "A comprehensive AI assistant platform for JEE/NEET and College students, featuring study planners, doubt solving, and personalized learning paths.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
